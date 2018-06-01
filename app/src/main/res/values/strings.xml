@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wbot(Task1)</string>
+    <string name="facebook_app_id">244207732989404</string>
+    <string name="facebook_login_protocol_scheme">fb244207732989404</string>
+</resources>
